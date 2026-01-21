@@ -40,6 +40,7 @@ Data-Preprocessing-and-Embeddings/
 
 
 📌 Datasets Used
+
 📄 IMDB Dataset (IMDB Dataset.csv)
 
 -Contains movie reviews
@@ -59,7 +60,9 @@ Data-Preprocessing-and-Embeddings/
 
 
 🛠️ Techniques Implemented
+
 🔹 Text Preprocessing
+
  Implemented essential NLP cleaning techniques such as:
 
 -Lowercasing text
@@ -72,30 +75,38 @@ Data-Preprocessing-and-Embeddings/
 📌 Goal: Convert raw, unstructured text into clean and meaningful tokens.
 
 🔹 Text Representation (Word Embeddings)
+
 I explored multiple methods to convert text into numbers:
 
 📘 Notebook 1: Word Embeddings – Part 1
+
 -Bag of Words (BoW)
 -TF-IDF (Term Frequency – Inverse Document Frequency)
 -Vocabulary creation
 -Sparse vector representation
+
 📌 Goal: Understand classical text vectorization methods.
 
 📘 Notebook 2: Word Embeddings – Part 2
+
 -Dense vector representations
 -Word-level embeddings
 -Understanding semantic similarity between words
+
 📌 Goal: Learn why embeddings are better than simple word counts.
 
 🔹 Text Classification using Machine Learning
+
 In this notebook, you:
 -Used preprocessed text features
 -Applied ML algorithms for classification
 -Trained models on sentiment-based text data
 -Evaluated model performance
+
 📌 Goal: Use text embeddings in real ML pipelines.
 
 🧰 Libraries & Tools Used
+
 The project uses standard NLP and ML libraries:
 pandas – data handling
 numpy – numerical operations
@@ -106,13 +117,16 @@ re – text cleaning with regex
 
 
 🚀 How to Run This Project
+
 1️⃣ Clone the repositor
 url - git clone https://github.com/Ujjval009/Data-Preprocessing-and-Embeddings.git
+
 2️⃣ Open the project in VS Code or Jupyter
 cd Data-Preprocessing-and-Embeddings
 jupyter notebook
 
 👨‍💻 Author
+
 Ujjval Sharma
 Engineering Student | NLP & ML Learner
 GitHub: https://github.com/Ujjval009
