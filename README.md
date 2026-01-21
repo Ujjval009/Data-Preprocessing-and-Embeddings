@@ -13,18 +13,31 @@ The project demonstrates:
 
 This repository is designed for learning and experimentation, especially for beginners in Machine Learning, NLP, and Generative AI.
 
-📁 Repository Structure
+## 📁 Repository Structure
 
+```text
 Data-Preprocessing-and-Embeddings/
 │
 ├── Text-Preprocessing.ipynb
+│   └── Text cleaning, tokenization, stopword removal, lemmatization
+│
 ├── Text-Representation_Word Embeddings-1.ipynb
+│   └── Bag of Words (BoW) and TF-IDF vectorization
+│
 ├── Text-Representation_Word Embeddings-2.ipynb
+│   └── Dense word embeddings and semantic representations
+│
 ├── Text_Classification_using_ML.ipynb
+│   └── Sentiment classification using ML models
 │
 ├── IMDB Dataset.csv
+│   └── Movie reviews dataset for sentiment analysis
+│
 ├── GOT SCRIPT.txt
+│   └── Raw Game of Thrones script for NLP preprocessing
+│
 └── README.md
+
 
 📌 Datasets Used
 📄 IMDB Dataset (IMDB Dataset.csv)
